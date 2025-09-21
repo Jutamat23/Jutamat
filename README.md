@@ -28,8 +28,8 @@
 ## 📝 Personal Information
 <p align="center" style="color:#1E90FF;">
 🎂 <strong>Age:</strong> 22<br/>
-🎉 <strong>Birthday:</strong> 01 August 2003<br/>
-🏡 <strong>Hometown:</strong> Lamphun, Thailand
+🎉 <strong>Birthday:</strong>23 June 2003<br/>
+🏡 <strong>Hometown:</strong> Lampang, Thailand
 </p>
 
 ---
@@ -97,9 +97,9 @@
 <p align="center">
   <img src="image/imgaeNueng.jpg" width="200" alt="Contact Image" 
        style="border-radius: 15px; margin-bottom: 20px; border: 3px solid #00BFFF;"/><br/>
-  🏡 24/1 Ban Thung Ped, Thung Hua Chang, Lamphun 51160<br/>
-  💌 <strong>Email:</strong> <a href="mailto:nirut.chanai.dev@gmail.com" style="color:#1E90FF;">nirut.chanai.dev@gmail.com</a><br/>
-  📞 <strong>Phone:</strong> +66 80-312-6797<br/>
+  🏡 48, Moo 5, Luang Tai Subdistrict,Ngao District, Lampang Province 52110<br/>
+  💌 <strong>Email:</strong> <a href="mailto:jutamat.kid@gmail.com" style="color:#1E90FF;">jutamat.kid@gmail.com</a><br/>
+  📞 <strong>Phone:</strong> +66 93-752-5061<br/>
   💼 <strong>LinkedIn:</strong> <a href="https://linkedin.com/in/nirut-chanai" style="color:#FF69B4;">linkedin.com/in/nirut-chanai</a><br/>
-  🐦 <strong>GitHub:</strong> <a href="https://github.com/nirut-chanai" style="color:#1E90FF;">github.com/nirut-chanai</a>
+  🐦 <strong>GitHub:</strong> <a href="https://github.com/jutamat-kiddee" style="color:#1E90FF;">github.com/jutamat-kiddee</a>
 </p>
