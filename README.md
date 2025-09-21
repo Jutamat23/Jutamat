@@ -142,6 +142,5 @@ I believe professional development is a lifelong journey. Through hands-on exper
   🏡 48, Moo 5, Luang Tai Subdistrict, Ngao District, Lampang Province 52110<br/>
   💌 <strong>Email:</strong> <a href="mailto:jutamat.kid@gmail.com" style="color:#1E90FF;">jutamat.kid@gmail.com</a><br/>
   📞 <strong>Phone:</strong> +66 93-752-5061<br/>
-  💼 <strong>LinkedIn:</strong> <a href="https://linkedin.com/in/nirut-chanai" style="color:#FF69B4;">linkedin.com/in/nirut-chanai</a><br/>
   🐦 <strong>GitHub:</strong> <a href="https://github.com/jutamat-kiddee" style="color:#1E90FF;">github.com/jutamat-kiddee</a>
 </p>
