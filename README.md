@@ -3,71 +3,103 @@
   <img src="image/imgaeNueng.jpg" width="250" style="border-radius: 50%; border: 3px solid #4CAF50;" alt="Nir
 </p>
 
-<h1 align="center">Hi, I’m Jutamat Kiddee <img height="30" src="https://em-content.zobj.net/thumbs/120/apple/354/waving-hand_1f44b.png" /></h1>
-
+<h1 align="center">Hi, I’m <span style="color:#4CAF50;">Nirut Chanai</span> 👋</h1>
 <p align="center">
-  <strong>Full-stack Engineer • Tech Educator • Lifelong Learner</strong><br/>
-  <em>“Turning ideas into delightful, scalable software.”</em>
+  <strong>Aspiring Front End Developer • Lifelong Learner</strong><br/>
+  <em style="color:#555;">Turning ideas into clean, responsive, and interactive web interfaces.</em>
 </p>
 
 ---
 
 ## 🚀 About Me
-- 🌱  I’m currently learning **⟪New Tech/Framework⟫**  
-- 🛠  Daily driver stack: **⟪Key Languages / Frameworks⟫**  
-- 🎯  2025 Goal: **⟪High-impact goal (e.g., ship an OSS library)⟫**  
-- 📫  Reach me: **⟪email@example.com⟫** | [LinkedIn](⟪url⟫) | [X/Twitter](⟪url⟫)
+<p align="center">
+  <img src="assets/img2.jpg" width="300" alt="About Me Image" style="border-radius: 10px; margin-bottom: 20px;"/><br/>
+  🌱 <strong>Currently learning:</strong> Spring MVC · JSP · CSS · JavaScript<br/><br/>
+  🛠 <strong>Main Stack:</strong> Frontend (HTML/CSS, JavaScript) | Backend (Java - Spring MVC) | Databases (MySQL)<br/><br/>
+  🎨 <strong>UX/UI Design:</strong> Figma · Canva<br/><br/>
+  💻 <strong>Tools:</strong> Eclipse · VS Code · GitHub<br/><br/>
+  💡 <strong>Career Objective:</strong> <em>Seeking an opportunity to work in the IT industry where I can develop essential technical skills, learn organizational practices, gain real-world experience, and strengthen my teamwork and problem-solving capabilities for future career growth.</em>
+</p>
+
+
+---
+
+## 📝 Personal Information
+<p align="center">
+🎂 <strong>Age:</strong> 22<br/>
+🎉 <strong>Birthday:</strong> 01 August 2003<br/>
+🏡 <strong>Hometown:</strong> Lamphun, Thailand
+</p>
+
+---
+
+## 🎓 Education
+<p align="center">
+🎓 <strong>Bachelor’s Degree:</strong> B.Sc.<br/>
+🏫 <strong>Address:</strong> No. 63, Village No. 4, Nong Harn Subdistrict, San Sai District, Chiang Mai Province 50290<br/>
+🎓 <strong>Graduated:</strong> 2025
+</p>
 
 ---
 
 ## 🧰 Tech Stack & Tools
-<div align="center">
-
-| Domain | Primary | Comfortable | Currently Exploring |
-|--------|---------|-------------|---------------------|
-| Front-end | ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white) | ![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs) | ![SvelteKit](https://img.shields.io/badge/SvelteKit-FF3E00?logo=svelte&logoColor=white) |
-| Back-end | ![Node](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white) | ![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white) | ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white) |
-| Data | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white) | ![DuckDB](https://img.shields.io/badge/DuckDB-FFC700?logoColor=000) |
-| DevOps | ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) | ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white) | ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white) |
-
-</div>
-
----
-
-## 📌 Featured Projects
-| Project | Tech | Highlights | Links |
-|---------|------|-----------|-------|
-| **⟪Project A⟫** | React · Node · PostgreSQL | Real-time dashboard handling 100k req/min | [Repo](⟪url⟫) · [Live](⟪url⟫) |
-| **⟪Project B⟫** | Python · FastAPI | Deployed on AWS Lambda; 99.9% uptime | [Repo](⟪url⟫) |
-| **⟪Project C⟫** | Figma · TypeScript | Design System adopted by 3 teams | [Case Study](⟪url⟫) |
-
-_Add 2–4 projects max. Each row should fit on one screen._
-
----
-
-## ✍🏻 Recent Blog / Talks
-<!-- GH Action can automate this section; placeholder for manual list -->
-- ⟪May 2025⟫ • **Observable-Ready Dashboards** at BangkokJS  
-- ⟪Apr 2025⟫ • Published *“Scalable Monorepo Patterns”* on Medium  
-- ⟪Mar 2025⟫ • Panel speaker at DevCon Asia: *Modern DevOps*
-
----
-
-## 📈 GitHub Stats
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=⟪USERNAME⟫&show_icons=true&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=⟪USERNAME⟫&layout=compact&hide_border=true" />
-</div>
-
----
-
-## 🤝 Let’s Connect
-> **“Great products are built by great people working together.”**
-
-- 💌 Email: ⟪email@example.com⟫  
-- 📝 Schedule a coffee chat: ⟪Calendly link⟫  
-- 🐦 DM me on [X/Twitter](⟪url⟫)
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=⟪USERNAME⟫&style=flat-square" alt="profile views"/>
+<strong>Frontend:</strong> HTML · CSS · JavaScript · JSP<br/>
+<strong>Backend:</strong> Java (Spring MVC)<br/>
+<strong>Database:</strong> MySQL<br/>
+<strong>UX/UI Design:</strong> Figma · Canva<br/>
+<strong>Tools:</strong> Eclipse · VS Code · GitHub
+</p>
+
+---
+
+## 💻 Featured Projects
+<table align="center">
+<tr>
+<th>Project</th><th>Tech</th><th>Highlights</th>
+</tr>
+<tr>
+<td>Online Book Ordering System</td>
+<td>HTML · CSS · JSP · JavaScript</td>
+<td>Front-end for browsing and ordering books</td>
+</tr>
+<tr>
+<td>Restaurant Favorites Web App</td>
+<td>JSP · JavaScript</td>
+<td>Users can mark restaurants as favorite</td>
+</tr>
+<tr>
+<td>Nail Salon Booking System</td>
+<td>HTML · CSS · JSP</td>
+<td>Customer booking interface</td>
+</tr>
+</table>
+
+
+
+---
+
+## 🗣 Languages / Localization
+<p align="center">
+🇹🇭 Thai (Native) | 🇬🇧 English (Intermediate)
+</p>
+
+---
+
+## 📝 Skills
+<p align="center">
+<strong>Hard Skills:</strong> Programming (Basic) · UX/UI Design<br/>
+<strong>Soft Skills:</strong> Teamwork · Patience · Time Management
+</p>
+
+---
+
+## 📫 Contact Me
+<p align="center">
+  <img src="assets/img1.jpg" width="200" alt="Contact Image" style="border-radius: 10px; margin-bottom: 20px;"/><br/>
+  24/1 Ban Thung Ped, Thung Hua Chang, Lamphun 51160<br/>
+  💌 Email: <a href="mailto:nirut.chanai.dev@gmail.com">nirut.chanai.dev@gmail.com</a><br/>
+  📞 Phone: +66 80-312-6797<br/>
+  💼 LinkedIn: <a href="https://linkedin.com/in/nirut-chanai">linkedin.com/in/nirut-chanai</a><br/>
+  🐦 GitHub: <a href="https://github.com/nirut-chanai">github.com/nirut-chanai</a>
 </p>
