@@ -45,13 +45,45 @@ I believe professional development is a lifelong journey. Through hands-on exper
 ---
 
 ## 🧰 Tech Stack & Tools
-<p align="center" style="background:#F0F8FF; padding:12px; border-radius:10px; width:85%; margin:auto;">
-Frontend: HTML · CSS · JavaScript · JSP <br/>
-Backend: Java (Spring MVC) <br/>
-Database: MySQL <br/>
-UX/UI Design: Figma · Canva <br/>
-Tools: Eclipse · VS Code · GitHub
+
+<p align="center" style="background:#F0F8FF; padding:12px; border-radius:10px; width:90%; margin:auto;">
+🌸 <strong>My Toolbox</strong> <br/>
+<em>(What makes me work with enjoyment)</em>
 </p>
+
+<table align="center" border="1" cellspacing="0" cellpadding="8" style="border:2px solid #00BFFF; border-radius:10px; text-align:center; width:90%;">
+<tr style="background-color:#E6F7FF; color:#1E90FF;">
+<th>Domain</th>
+<th>Primary</th>
+<th>Comfortable</th>
+<th>Exploring</th>
+</tr>
+<tr>
+<td>Testing</td>
+<td style="background:#4CAF50; color:#fff;">Selenium</td>
+<td style="background:#FF4500; color:#fff;">Robot Framework</td>
+<td style="background:#000; color:#fff;">-</td>
+</tr>
+<tr>
+<td>Languages</td>
+<td style="background:#1E90FF; color:#fff;">Python</td>
+<td style="background:#4682B4; color:#fff;">Java</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Database</td>
+<td style="background:#5A9BD5; color:#fff;">MySQL</td>
+<td style="background:#FF0000; color:#fff;">Oracle</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Tools</td>
+<td style="background:#228B22; color:#fff;">Excel</td>
+<td style="background:#000; color:#fff;">GitHub</td>
+<td style="background:#FF4500; color:#fff;">Allure</td>
+</tr>
+</table>
+
 
 ---
 
