@@ -87,10 +87,10 @@
 
 ## 📝 Skills
 <p align="center">
-<strong style="color:#00BFFF;">Technology Skills:</strong>Software testing and System Testing using Robot Framework -
-Database management (SQL, Oracle) -Proficient in using Visual Studio Code (VS Code) for writing software test scripts -
-Prepare documentation for System Test Cases, Test Plans, and Test Designs for projects (Excel , Word)<br/>
-<strong style="color:#FF69B4;">Other Skills:</strong> Works well in a team and listens to others - Responsible for assigned tasks
+<strong style="color:#00BFFF;">Technology Skills :</strong>Software testing and System Testing using Robot Framework
+<p>Database management (SQL, Oracle)</p> <p>Proficient in using Visual Studio Code (VS Code) for writing software test scripts </p>
+<p>Prepare documentation for System Test Cases, Test Plans, and Test Designs for projects (Excel , Word)<br/></p>
+<strong style="color:#FF69B4;">Other Skills :</strong> Works well in a team and listens to others - Responsible for assigned tasks
 - Eager to learn new things and continuously improve oneself - Bright personality and positive attitude
 </p>
 
