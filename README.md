@@ -8,7 +8,6 @@
 <h1 align="center" style="color:#00BFFF;">Hi, I’m <span style="color:#FF69B4;">Jutamat Kiddee</span> 👋</h1><br/>
 <p align="center">
   <strong style="color:#1E90FF;">  • A software tester who is dedicated to learning new things and continuously improving oneself. </strong><br/>
-  <em style="color:#555;">Turning ideas into clean, responsive, and interactive web interfaces.</em>
 </p>
 
 ---
