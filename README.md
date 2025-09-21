@@ -86,7 +86,7 @@
 ---
 
 ## 📝 Skills
-<p align="center">
+
 <strong style="color:#00BFFF;">Technology Skills :</strong>
 - Database Management (SQL, Oracle)  
 - Software Testing & System Testing using Robot Framework  
