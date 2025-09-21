@@ -86,22 +86,20 @@ Tools: Eclipse · VS Code · GitHub
 ---
 
 ## 📝 Skills
-<p align="left" style="background:#F0F8FF; padding:15px; border-radius:12px;">
 
-<strong style="color:#00BFFF;">Technology Skills :</strong>  
-1. Database Management (SQL, Oracle)  
-2. Software Testing & System Testing using Robot Framework  
-3. Proficient in using Visual Studio Code (VS Code) for writing software test scripts  
-4. Prepare documentation for System Test Cases, Test Plans, and Test Designs (Excel, Word)  
+<strong style="color:#00BFFF;">Technology Skills :</strong><br/><br/>
+<span style="background:#00BFFF; color:#fff; padding:6px 12px; border-radius:20px; font-size:14px; margin:3px; display:inline-block;">Database Management (SQL, Oracle)</span>
+<span style="background:#FF69B4; color:#fff; padding:6px 12px; border-radius:20px; font-size:14px; margin:3px; display:inline-block;">Software Testing (Robot Framework)</span>
+<span style="background:#1E90FF; color:#fff; padding:6px 12px; border-radius:20px; font-size:14px; margin:3px; display:inline-block;">VS Code (Test Scripts)</span>
+<span style="background:#ADD8E6; color:#000; padding:6px 12px; border-radius:20px; font-size:14px; margin:3px; display:inline-block;">Documentation (Excel, Word)</span>
 
-<br/>
+<br/><br/>
+<strong style="color:#FF69B4;">Other Skills :</strong><br/><br/>
+<span style="background:#FF69B4; color:#fff; padding:6px 12px; border-radius:20px; font-size:14px; margin:3px; display:inline-block;">Teamwork</span>
+<span style="background:#00BFFF; color:#fff; padding:6px 12px; border-radius:20px; font-size:14px; margin:3px; display:inline-block;">Responsibility</span>
+<span style="background:#FFC0CB; color:#000; padding:6px 12px; border-radius:20px; font-size:14px; margin:3px; display:inline-block;">Eager to Learn</span>
+<span style="background:#1E90FF; color:#fff; padding:6px 12px; border-radius:20px; font-size:14px; margin:3px; display:inline-block;">Positive Attitude</span>
 
-<strong style="color:#FF69B4;">Other Skills :</strong>  
-1. Works well in a team and listens to others  
-2. Responsible for assigned tasks  
-3. Eager to learn new things and continuously improve oneself  
-4. Bright personality and positive attitude  
-</p>
 
 ---
 
