@@ -13,7 +13,6 @@
 
 ## 🚀 About Me
 <p align="center">
-  <img src="assets/img2.jpg" width="300" alt="About Me Image" style="border-radius: 10px; margin-bottom: 20px;"/><br/>
   🌱 <strong>Currently learning:</strong> Spring MVC · JSP · CSS · JavaScript<br/><br/>
   🛠 <strong>Main Stack:</strong> Frontend (HTML/CSS, JavaScript) | Backend (Java - Spring MVC) | Databases (MySQL)<br/><br/>
   🎨 <strong>UX/UI Design:</strong> Figma · Canva<br/><br/>
