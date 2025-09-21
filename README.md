@@ -93,19 +93,19 @@ I believe professional development is a lifelong journey. Through hands-on exper
 <th>Project</th><th>Tech</th><th>Highlights</th>
 </tr>
 <tr>
-<td>Online Book Ordering System</td>
-<td>HTML · CSS · JSP · JavaScript</td>
-<td>Front-end for browsing and ordering books</td>
+<td>Hospital Water Delivery Web System Testing by Ward and Department</td>
+<td>Selenium · Robot Framework </td>
+<td>Automated and manual test cases for login, ordering, and shipping. </td>
 </tr>
 <tr style="background-color:#FFF0F5;">
-<td>Restaurant Favorites Web App</td>
-<td>JSP · JavaScript</td>
-<td>Users can mark restaurants as favorite</td>
+<td> Manual Test Cases Collection </td>
+<td>Execl</td>
+<td>999+ test cases including Test Plan & System Test Cases.</td>
 </tr>
 <tr>
-<td>Nail Salon Booking System</td>
-<td>HTML · CSS · JSP</td>
-<td>Customer booking interface</td>
+<td>Software Testing Project – Demo Website </td>
+<td>Selenium · Robot Framework</td>
+<td>Perform automated testing for login, ordering, and shipping processes, including writing test cases, debugging, and applying test methodologies.</td>
 </tr>
 </table>
 
