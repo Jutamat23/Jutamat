@@ -16,11 +16,12 @@
 ## 🚀 About Me
 <p align="center" style="background:#F0F8FF; padding:15px; border-radius:12px; border:1px solid #ADD8E6;">
   🌱 <strong style="color:#FF69B4;">Currently learning:</strong> Automation Testing (Selenium, Robot Framework) <br/><br/>
-  🛠 <strong style="color:#00BFFF;">Main Stack:</strong>  Selenium | Robot Framework | Microsoft | Excel | GitHub | Allure Report| Databases (MySQL)<br/><br/>
-  🎨 <strong style="color:#1E90FF;">UX/UI Design:</strong> Figma · Canva<br/><br/>
-  💻 <strong style="color:#FF69B4;">Tools:</strong> Eclipse · VS Code · GitHub<br/><br/>
+  🛠 <strong style="color:#00BFFF;">Main Stack:</strong>  Selenium | Robot Framework | Microsoft | Excel | GitHub | Allure Report | Databases (MySQL)<br/><br/>
+  💻 <strong style="color:#FF69B4;">Tools:</strong>    Visual Studio Code (VS Code) | GitHub <br/><br/>
   💡 <strong>Career Objective:</strong><br/>
-  <em>Seeking an opportunity to work in the IT industry where I can develop essential technical skills, learn organizational practices, gain real-world experience, and strengthen my teamwork and problem-solving capabilities for future career growth.</em>
+  <em>I am deeply committed to continuously learning and growing in this career path. 
+I believe professional development is a lifelong journey. Through hands-on experience or collaboration with colleagues,
+ I work to enhance my skills by embracing new challenges and being open to feedback.</em>
 </p>
 
 ---
@@ -109,7 +110,7 @@ Tools: Eclipse · VS Code · GitHub
        style="border-radius: 15px; margin-bottom: 20px; border: 3px solid #00BFFF; box-shadow: 0px 0px 10px #ADD8E6;"/><br/>
   🏡 48, Moo 5, Luang Tai Subdistrict, Ngao District, Lampang Province 52110<br/>
   💌 <strong>Email:</strong> <a href="mailto:jutamat.kid@gmail.com" style="color:#1E90FF;">jutamat.kid@gmail.com</a><br/>
-  📞 <strong>Phone:</strong> 093-752-5061<br/>
+  📞 <strong>Phone:</strong> +66 93-752-5061<br/>
   💼 <strong>LinkedIn:</strong> <a href="https://linkedin.com/in/nirut-chanai" style="color:#FF69B4;">linkedin.com/in/nirut-chanai</a><br/>
   🐦 <strong>GitHub:</strong> <a href="https://github.com/jutamat-kiddee" style="color:#1E90FF;">github.com/jutamat-kiddee</a>
 </p>
