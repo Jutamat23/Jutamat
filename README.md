@@ -3,7 +3,7 @@
   <img src="image/imgaeNueng.jpg" width="250" style="border-radius: 50%; border: 3px solid #4CAF50;" alt="Nir
 </p>
 
-<h1 align="center">Hi, I’m <span style="color:#4CAF50;">Nirut Chanai</span> 👋</h1><br/>
+<br><h1 align="center">Hi, I’m <span style="color:#4CAF50;">Jutamat kiddee</span> 👋</h1><br/>
 <p align="center">
   <strong>Aspiring Front End Developer • Lifelong Learner</strong><br/>
   <em style="color:#555;">Turning ideas into clean, responsive, and interactive web interfaces.</em>
