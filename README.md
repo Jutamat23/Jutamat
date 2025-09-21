@@ -15,8 +15,8 @@
 
 ## 🚀 About Me
 <p align="center" style="background:#F0F8FF; padding:15px; border-radius:12px; border:1px solid #ADD8E6;">
-  🌱 <strong style="color:#FF69B4;">Currently learning:</strong> Spring MVC · JSP · CSS · JavaScript<br/><br/>
-  🛠 <strong style="color:#00BFFF;">Main Stack:</strong> Frontend (HTML/CSS, JavaScript) | Backend (Java - Spring MVC) | Databases (MySQL)<br/><br/>
+  🌱 <strong style="color:#FF69B4;">Currently learning:</strong> Automation Testing (Selenium, Robot Framework) <br/><br/>
+  🛠 <strong style="color:#00BFFF;">Main Stack:</strong>  Selenium | Robot Framework | Microsoft | Excel | GitHub | Allure Report| Databases (MySQL)<br/><br/>
   🎨 <strong style="color:#1E90FF;">UX/UI Design:</strong> Figma · Canva<br/><br/>
   💻 <strong style="color:#FF69B4;">Tools:</strong> Eclipse · VS Code · GitHub<br/><br/>
   💡 <strong>Career Objective:</strong><br/>
