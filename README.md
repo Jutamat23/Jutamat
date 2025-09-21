@@ -1,11 +1,13 @@
 <!-- Banner / Cover -->
 <p align="center">
-  <img src="image/imgaeNueng.jpg" width="250" style="border-radius: 50%; border: 3px solid #4CAF50;" alt="Nir
+  <img src="image/imgaeNueng.jpg" width="250" 
+       style="border-radius: 50%; border: 4px solid #00BFFF;" 
+       alt="Profile"/>
 </p><br/>
 
-<h1 align="center">Hi, I’m <span style="color:#4CAF50;">Jutamat kiddee</span> 👋</h1><br/>
+<h1 align="center" style="color:#00BFFF;">Hi, I’m <span style="color:#FF69B4;">Jutamat Kiddee</span> 👋</h1><br/>
 <p align="center">
-  <strong>Aspiring Front End Developer • Lifelong Learner</strong><br/>
+  <strong style="color:#1E90FF;">Aspiring Front End Developer • Lifelong Learner</strong><br/>
   <em style="color:#555;">Turning ideas into clean, responsive, and interactive web interfaces.</em>
 </p>
 
@@ -13,18 +15,18 @@
 
 ## 🚀 About Me
 <p align="center">
-  🌱 <strong>Currently learning:</strong> Spring MVC · JSP · CSS · JavaScript<br/><br/>
-  🛠 <strong>Main Stack:</strong> Frontend (HTML/CSS, JavaScript) | Backend (Java - Spring MVC) | Databases (MySQL)<br/><br/>
-  🎨 <strong>UX/UI Design:</strong> Figma · Canva<br/><br/>
-  💻 <strong>Tools:</strong> Eclipse · VS Code · GitHub<br/><br/>
-  💡 <strong>Career Objective:</strong> <em>Seeking an opportunity to work in the IT industry where I can develop essential technical skills, learn organizational practices, gain real-world experience, and strengthen my teamwork and problem-solving capabilities for future career growth.</em>
+  🌱 <strong style="color:#FF69B4;">Currently learning:</strong> Spring MVC · JSP · CSS · JavaScript<br/><br/>
+  🛠 <strong style="color:#00BFFF;">Main Stack:</strong> Frontend (HTML/CSS, JavaScript) | Backend (Java - Spring MVC) | Databases (MySQL)<br/><br/>
+  🎨 <strong style="color:#1E90FF;">UX/UI Design:</strong> Figma · Canva<br/><br/>
+  💻 <strong style="color:#FF69B4;">Tools:</strong> Eclipse · VS Code · GitHub<br/><br/>
+  💡 <strong>Career Objective:</strong> 
+  <em>Seeking an opportunity to work in the IT industry where I can develop essential technical skills, learn organizational practices, gain real-world experience, and strengthen my teamwork and problem-solving capabilities for future career growth.</em>
 </p>
-
 
 ---
 
 ## 📝 Personal Information
-<p align="center">
+<p align="center" style="color:#1E90FF;">
 🎂 <strong>Age:</strong> 22<br/>
 🎉 <strong>Birthday:</strong> 01 August 2003<br/>
 🏡 <strong>Hometown:</strong> Lamphun, Thailand
@@ -34,27 +36,27 @@
 
 ## 🎓 Education
 <p align="center">
-🎓 <strong>Bachelor’s Degree:</strong> B.Sc.<br/>
+🎓 <strong style="color:#00BFFF;">Bachelor’s Degree:</strong> B.Sc.<br/>
 🏫 <strong>Address:</strong> No. 63, Village No. 4, Nong Harn Subdistrict, San Sai District, Chiang Mai Province 50290<br/>
-🎓 <strong>Graduated:</strong> 2025
+🎓 <strong style="color:#FF69B4;">Graduated:</strong> 2025
 </p>
 
 ---
 
 ## 🧰 Tech Stack & Tools
 <p align="center">
-<strong>Frontend:</strong> HTML · CSS · JavaScript · JSP<br/>
-<strong>Backend:</strong> Java (Spring MVC)<br/>
-<strong>Database:</strong> MySQL<br/>
-<strong>UX/UI Design:</strong> Figma · Canva<br/>
-<strong>Tools:</strong> Eclipse · VS Code · GitHub
+<strong style="color:#00BFFF;">Frontend:</strong> HTML · CSS · JavaScript · JSP<br/>
+<strong style="color:#FF69B4;">Backend:</strong> Java (Spring MVC)<br/>
+<strong style="color:#00BFFF;">Database:</strong> MySQL<br/>
+<strong style="color:#FF69B4;">UX/UI Design:</strong> Figma · Canva<br/>
+<strong style="color:#1E90FF;">Tools:</strong> Eclipse · VS Code · GitHub
 </p>
 
 ---
 
 ## 💻 Featured Projects
-<table align="center">
-<tr>
+<table align="center" border="1" cellspacing="0" cellpadding="8" style="border:2px solid #00BFFF; border-radius:10px;">
+<tr style="background-color:#E6F7FF; color:#1E90FF;">
 <th>Project</th><th>Tech</th><th>Highlights</th>
 </tr>
 <tr>
@@ -62,7 +64,7 @@
 <td>HTML · CSS · JSP · JavaScript</td>
 <td>Front-end for browsing and ordering books</td>
 </tr>
-<tr>
+<tr style="background-color:#FFF0F5;">
 <td>Restaurant Favorites Web App</td>
 <td>JSP · JavaScript</td>
 <td>Users can mark restaurants as favorite</td>
@@ -74,12 +76,10 @@
 </tr>
 </table>
 
-
-
 ---
 
 ## 🗣 Languages / Localization
-<p align="center">
+<p align="center" style="color:#1E90FF;">
 🇹🇭 Thai (Native) | 🇬🇧 English (Intermediate)
 </p>
 
@@ -87,18 +87,19 @@
 
 ## 📝 Skills
 <p align="center">
-<strong>Hard Skills:</strong> Programming (Basic) · UX/UI Design<br/>
-<strong>Soft Skills:</strong> Teamwork · Patience · Time Management
+<strong style="color:#00BFFF;">Hard Skills:</strong> Programming (Basic) · UX/UI Design<br/>
+<strong style="color:#FF69B4;">Soft Skills:</strong> Teamwork · Patience · Time Management
 </p>
 
 ---
 
 ## 📫 Contact Me
 <p align="center">
-  <img src="assets/img1.jpg" width="200" alt="Contact Image" style="border-radius: 10px; margin-bottom: 20px;"/><br/>
-  24/1 Ban Thung Ped, Thung Hua Chang, Lamphun 51160<br/>
-  💌 Email: <a href="mailto:nirut.chanai.dev@gmail.com">nirut.chanai.dev@gmail.com</a><br/>
-  📞 Phone: +66 80-312-6797<br/>
-  💼 LinkedIn: <a href="https://linkedin.com/in/nirut-chanai">linkedin.com/in/nirut-chanai</a><br/>
-  🐦 GitHub: <a href="https://github.com/nirut-chanai">github.com/nirut-chanai</a>
+  <img src="assets/img1.jpg" width="200" alt="Contact Image" 
+       style="border-radius: 15px; margin-bottom: 20px; border: 3px solid #00BFFF;"/><br/>
+  🏡 24/1 Ban Thung Ped, Thung Hua Chang, Lamphun 51160<br/>
+  💌 <strong>Email:</strong> <a href="mailto:nirut.chanai.dev@gmail.com" style="color:#1E90FF;">nirut.chanai.dev@gmail.com</a><br/>
+  📞 <strong>Phone:</strong> +66 80-312-6797<br/>
+  💼 <strong>LinkedIn:</strong> <a href="https://linkedin.com/in/nirut-chanai" style="color:#FF69B4;">linkedin.com/in/nirut-chanai</a><br/>
+  🐦 <strong>GitHub:</strong> <a href="https://github.com/nirut-chanai" style="color:#1E90FF;">github.com/nirut-chanai</a>
 </p>
