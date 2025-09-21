@@ -1,8 +1,5 @@
 <!-- Banner / Cover -->
 <p align="center">
-  <img src="[https://avatars.githubusercontent.com](https://github.com/Jutamat23/Jutamat)/u/12345678?v=4" width="150" style="border-radius:50%">
-</p>
-<p align="center">
   <img src="image/imgaeNueng.jpg" width="250" 
        style="border-radius: 50%; border: 4px solid #00BFFF; box-shadow: 0px 0px 15px #ADD8E6;" 
        alt="Profile"/>
