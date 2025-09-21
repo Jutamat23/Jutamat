@@ -87,7 +87,7 @@
 
 ## 📝 Skills
 <p align="center">
-<strong style="color:#00BFFF;">Hard Skills:</strong>Database management·Visual Studio Code·Eclipse·Excel<br/>
+<strong style="color:#00BFFF;">Hard Skills:</strong>Database management · Visual Studio Code ·Excel<br/>
 <strong style="color:#FF69B4;">Soft Skills:</strong> Teamwork · Patience · Time Management
 </p>
 
