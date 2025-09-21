@@ -95,7 +95,7 @@
 
 ## 📫 Contact Me
 <p align="center">
-  <img src="assets/img1.jpg" width="200" alt="Contact Image" 
+  <img src="image/imgaeNueng.jpg" width="200" alt="Contact Image" 
        style="border-radius: 15px; margin-bottom: 20px; border: 3px solid #00BFFF;"/><br/>
   🏡 24/1 Ban Thung Ped, Thung Hua Chang, Lamphun 51160<br/>
   💌 <strong>Email:</strong> <a href="mailto:nirut.chanai.dev@gmail.com" style="color:#1E90FF;">nirut.chanai.dev@gmail.com</a><br/>
